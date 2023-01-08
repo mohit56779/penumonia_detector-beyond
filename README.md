@@ -16,16 +16,16 @@ Classification Accuracy Achieved on Test Set - 92%
 ## Problem
 
 
-Everyday nearly 2,200 children die from Pneumonia under the age of 5 (Over 15% of all deaths under the age of 5). Penumonia a curable and preventable disease. If Diagnosed in time, these deaths can be prevented. 
+Everyday nearly 2,200 children die from Pneumonia under the age of 5 (Over 15% of all deaths under the age of 5). Penumonia is a curable and preventable disease. If diagnosed in time, these deaths can be prevented. 
 
-Currently, Diagnosis of Pneumonia requires a highly trained specialist. Even for specialists it is hard to diagnose as pneumonia manifests as increased opacity in X-rays and multiple complications like fluid overload, bleeding etc. can make it hard to detect. 
+Currently, diagnosis of Pneumonia requires a highly trained specialist. Even for specialists it is hard to diagnose as pneumonia manifests as increased opacity in X-rays and multiple complications like fluid overload, bleeding etc. can make it hard to detect for human eyes. 
 
-This issue is more severe especailly in developing countries where specialists are not readily available for these diagnosis causing a large number of deaths from this curable disease.
+This issue is more severe especailly in developing countries where specialists are not readily available for these diagnosis at remote areas causing a large number of deaths from this curable disease.
 
 
 ## Proposed Solution Through Computer Vision and Machine Learning
 
-Computer Vision can help diagnose Pneumonia with a very high level of accuracy (near perfect accuracy can be achieved as per research with sufficient training and Data). 
+Computer Vision can help diagnose Pneumonia with a very high level of accuracy (near perfect accuracy can be achieved with sufficient training and Data). 
 
 This can help save millions of lives every year!
 

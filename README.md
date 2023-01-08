@@ -16,7 +16,7 @@ Classification Accuracy Achieved on Test Set - 92%
 ## Problem
 
 
-Everyday nearly 2,200 children die from Pneumonia under the age of 5 (Over 15% of all deaths under the age of 5). Penumonia is a curable and preventable disease. If diagnosed in time, these deaths can be prevented. 
+Every day nearly 2,200 children die from Pneumonia under the age of 5 (Over 15% of all deaths under the age of 5). Penumonia is a curable and preventable disease. If diagnosed in time, these deaths can be prevented. 
 
 Currently, diagnosis of Pneumonia requires a highly trained specialist. Even for specialists it is hard to diagnose as pneumonia manifests as increased opacity in X-rays and multiple complications like fluid overload, bleeding etc. can make it hard to detect for human eyes. 
 

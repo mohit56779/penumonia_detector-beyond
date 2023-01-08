@@ -37,3 +37,6 @@ Architecture used in this model is Densenet121 with 121 trainable layers.
 Trained for 5 epochs with Nvidia A100 GPU in Google Colab to achieve 92% accuracy on the test set.
 
 
+## Sources
+1. Data about Penumonia in children - [Link to source](https://www.business-standard.com/article/health/pneumonia-kills-one-child-every-39-seconds-127-000-died-in-india-2018-pneumonia-cause-data-119111300489_1.html)
+2. Data about Penumonia Diagnosis - [Link to source](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)

@@ -1,4 +1,4 @@
-# pneumonia_detector
+# Pneumonia Detector
 
 ## Links
 
